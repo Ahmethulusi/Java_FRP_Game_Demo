@@ -23,7 +23,6 @@ Oyun, kullanıcıdan gelen girdilere göre farklı senaryolar sunar ve kararlar�
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Java 17**
-- Fonksiyonel Reaktif Programlama (FRP)
 - Temiz kod ve modüler yapı
 - Nesne yönelimli tasarım (OOP)
 
