@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/YMhs0QX.png" alt="Sword of Revenge Banner" width="700"/>
-</p>
 
 <h1 align="center">⚔️ Sword of Revenge – Java FRP Game Demo</h1>
 <p align="center"><i>Turn-based Console RPG Demo built with Java and FRP principles</i></p>
